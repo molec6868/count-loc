@@ -1,0 +1,4 @@
+*.creds
+*.key
+.vscode
+*.csv
